@@ -5,6 +5,6 @@ application up and running.
 
 Things you may want to cover:
 
-* Facebook https ki problem
+* Https URL Error with facebook
 
-* Google invalid client_id ki problem
+* Invalid Client ID Problem with Google
