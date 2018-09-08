@@ -7,4 +7,4 @@ Things you may want to cover:
 
 * Https URL Error with facebook
 
-* Invalid Client ID Problem with Google
+
