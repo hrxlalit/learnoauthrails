@@ -13,11 +13,12 @@
 ActiveRecord::Schema.define(version: 2018_08_17_094035) do
 
   create_table "users", force: :cascade do |t|
-    t.string "provider", null: false
     t.string "uid", null: false
     t.string "name"
-    t.string "location"
+    t.string "email"
+    t.string "provider", null: false
     t.string "image_url"
+    t.string "location"
     t.string "url"
     t.string "oauth_token"
     t.datetime "oauth_expires_at"

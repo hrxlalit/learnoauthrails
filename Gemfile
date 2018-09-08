@@ -70,5 +70,7 @@ gem 'omniauth-linkedin-oauth2'
 gem 'will_paginate'
 gem 'pry'
 gem 'ngrok-tunnel'
+gem 'omniauth-github'
+
 
 
