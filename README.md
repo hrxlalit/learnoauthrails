@@ -1,9 +1,24 @@
-# README
+# Learn oauth in ruby on rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project will teach you how to use oauth in ruby on rails for GOOGLE, TWITTER, LINKEDIN, FACEBOOK & GITHUB for user authentocation.
 
-Things you may want to cover:
+## Topics Covered
+* Oauth for Twitter
+* Oauth for Google
+* Oauth for LinkedIN
+* Oauth for Github
+* Oauth for Facebook
 
-* Https URL Error with facebook
+### Let's start with the twitter
 
+Gemfile
+
+```
+[...]
+gem 'omniauth-twitter'
+[...]
+```
+
+### Acknowledgments
+
+* [Sitepoint](https://www.sitepoint.com/rails-authentication-oauth-2-0-omniauth/) - For the Inspiration and template
